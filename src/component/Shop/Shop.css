@@ -17,12 +17,12 @@ body {
     width: 70%;
 }
 
-.cart-container {
+/* /* .cart-container {
     display: grid;
     color: rgb(255, 248, 248);
     /* background-color: rgb(143, 166, 158); */
-    border-radius: 10px;
-}
+/* border-radius: 10px; */
+/* }  */
 
 @media screen and (max-width:1100px) {
     .products-container {
